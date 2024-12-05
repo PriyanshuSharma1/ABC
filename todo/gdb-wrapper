@@ -1,4 +1,0 @@
-#!/bin/bash
-
-gdb --command=deps/buildit/deps/d2x/helpers/gdb/d2x-gdb.init $@
-
